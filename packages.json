@@ -10,7 +10,7 @@
         ]
     },
     "emapp": {
-        "repo": "https://github.com/Gandshack/emapp",
+        "repo": "Gandshack/emapp",
         "path": "",
         "installPath": "emapp",
         "files" : [
