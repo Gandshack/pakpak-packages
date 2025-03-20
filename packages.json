@@ -2,7 +2,12 @@
     "exampleApp": {
         "repo": "Gandshack/exampleapp",
         "path": "",
-        "installPath": "exampleapp.lua"
+        "installPath": "exampleapp",
+        "files": [
+            "examplemain.lua",
+            "dependencies/exampledepenancy.lua",
+            "dependencies/examplelayer/exampledepenecylayered.lua"
+        ]
     },
     "anotherApp": {
         "repo": "another-username/another-repo",
