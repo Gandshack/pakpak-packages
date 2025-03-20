@@ -13,5 +13,8 @@
         "repo": "https://github.com/Gandshack/emapp",
         "path": "",
         "installPath": "emapp"
+        "files" : [
+            "emapp.lua"
+        ]
     }
 }
