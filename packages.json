@@ -9,9 +9,9 @@
             "dependencies/examplelayer/exampledepenecylayered.lua"
         ]
     },
-    "anotherApp": {
-        "repo": "another-username/another-repo",
-        "path": "path/to/another/file.lua",
-        "installPath": "path/to/install/another_file.lua"
+    "emapp": {
+        "repo": "https://github.com/Gandshack/emapp",
+        "path": "",
+        "installPath": "emapp"
     }
 }
