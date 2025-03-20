@@ -16,5 +16,12 @@
         "files" : [
             "emapp.lua"
         ]
-    }
+    },
+    "emeraldserver": {
+    "repo": "Gandshack/emeraldserver",
+    "path": "",
+    "installPath": "emeraldserver",
+    "files" : [
+        "emeraldserver.lua"
+    ]
 }
