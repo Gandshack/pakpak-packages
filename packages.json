@@ -1,0 +1,12 @@
+{
+    "exampleApp": {
+        "repo": "your-username/your-repo",
+        "path": "path/to/your/file.lua",
+        "installPath": "path/to/install/file.lua"
+    },
+    "anotherApp": {
+        "repo": "another-username/another-repo",
+        "path": "path/to/another/file.lua",
+        "installPath": "path/to/install/another_file.lua"
+    }
+}
