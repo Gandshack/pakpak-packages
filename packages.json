@@ -13,7 +13,7 @@
         "repo": "Gandshack/emapp",
         "path": "",
         "installPath": "emapp",
-        "files" : [
+        "files": [
             "emapp.lua"
         ]
     },
@@ -21,8 +21,16 @@
         "repo": "Gandshack/emeraldserver",
         "path": "",
         "installPath": "emeraldserver",
-        "files" : [
+        "files": [
             "emeraldserver.lua"
+        ]
+    },
+    "tchat": {
+        "repo": "Gandshack/tchat",
+        "path": "",
+        "installPath": "tchat",
+        "files": [
+            tchat.lua
         ]
     }
 }
