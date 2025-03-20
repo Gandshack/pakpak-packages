@@ -30,7 +30,7 @@
         "path": "",
         "installPath": "tchat",
         "files": [
-            tchat.lua
+            "tchat.lua"
         ]
     }
 }
