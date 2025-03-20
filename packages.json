@@ -18,11 +18,11 @@
         ]
     },
     "emeraldserver": {
-    "repo": "Gandshack/emeraldserver",
-    "path": "",
-    "installPath": "emeraldserver",
-    "files" : [
-        "emeraldserver.lua"
-    ]
+        "repo": "Gandshack/emeraldserver",
+        "path": "",
+        "installPath": "emeraldserver",
+        "files" : [
+            "emeraldserver.lua"
+        ]
     }
 }
